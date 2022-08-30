@@ -12,7 +12,6 @@ public class Customer {
 
     /**
      * @param name customer name
-     * @param id customer id
      */
     public Customer(String name) {
         this.name = name;
